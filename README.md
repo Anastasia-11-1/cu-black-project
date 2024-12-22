@@ -17,19 +17,28 @@
 
 1. Клонируйте репозиторий:
 
+```
 git clone https://github.com/yourusername/weather-bot.git
 cd weather-bot
+```
 
-2. Установите необходимые зависимости:
+2. Установите необходимые зависимости
+
+```
 pip install -r requirements.txt
 text
+```
 
-3. Настройте переменные окружения для вашего Telegram-бота:
+5. Настройте переменные окружения для вашего Telegram-бота:
+
+```
 export TELEGRAM_TOKEN='your_telegram_bot_token'
+```
 
-5. Запустите бота:
+7. Запустите бота:
+```
 python bot.py
-
+```
 
 ## Интеграция с веб-сервисом
 
