@@ -26,7 +26,6 @@ cd weather-bot
 
 ```
 pip install -r requirements.txt
-text
 ```
 
 5. Настройте переменные окружения для вашего Telegram-бота:
